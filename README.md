@@ -19,5 +19,10 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
+## The Projects
 
+### Rhein Water Level [(Medium Post)](https://medium.com/@JocCordova/analysis-on-the-rhines-water-level-in-d%C3%BCsseldorf-c7b16142b48b)
+
+Exploratory data analysis of the water level of the Rhine.
+The dataset includes the water level in Düsseldorf from the years 1996 - 2021.
 
