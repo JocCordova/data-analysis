@@ -1,49 +1,23 @@
 <!-- ABOUT THE PROJECT -->
-## About WaterLevel_Rhine
+## About the Repo
 
-This project explores the correlation between the Water level of the Rhine in Düsseldorf with the Weather in Düsseldorf.
+This repository holds a collection of Data Analytics projects, using real world data.
 
 
 ### Built With
 
-* python 3.9.3
-* numpy 1.20.3
-* pandas 1.2.4
-* scikit-learn 0.24.2
+* python 3.9
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running in a virtual environment follow these simple steps:
+Ensure you work on a virtual environment and install the dependencies.
 
-### Installation
-
-1. `git clone https://github.com/JocCordova/WaterLevel_Rhine`
-2. `cd /WaterLevel_Rhine`
-3. `pip install virtualenv` 
-4. `virtualenv venv` 
-
-Linux|Windows
------|----
-5\. run `venv/bin/activate`
-6\. `pip install -r requirements.txt`
-
-#### Troubleshooting
+```bash
+python3 -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+```
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-
-<!-- CONTACT -->
-## Contact
-
-José Andrés Cordova - jacordovah@gmail.com
-
-Project Link: [https://github.com/JocCordova/WaterLevel_Rhine](https://github.com/JocCordova/WaterLevel_Rhine)
-
-<!-- LICENSE -->
-## License
-
-[Apache License 2.0](https://choosealicense.com/licenses/apache-2.0//)
 
